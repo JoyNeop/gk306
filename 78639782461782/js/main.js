@@ -1,7 +1,7 @@
 // -----------------------
 // Config
 var hiddenFragmentPlaceholder = '______________';
-// var hiddenFragmentPlaceholder = '';
+var hiddenFragmentPlaceholder = '';
 
 // -----------------------
 // Reusable
@@ -61,5 +61,5 @@ xhr.onload = function () {
         return tmp;
     });
 
-    document.getElementById('cont').innerHTML = selectedFragments.join('<br>');
+    document.getElementById('cont').innerHTML = selectedFragments.join('<br />');
 };
