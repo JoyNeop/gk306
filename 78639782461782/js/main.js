@@ -1,7 +1,7 @@
 // -----------------------
 // Config
-var hiddenFragmentPlaceholder = '______________';
-var hiddenFragmentPlaceholder = '';
+var hiddenFragmentPlaceholder = '____________';
+// var hiddenFragmentPlaceholder = '';
 
 // -----------------------
 // Reusable
